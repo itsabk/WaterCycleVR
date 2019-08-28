@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 05b8876438ba4084aa39021c9c5c1482
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: stodola_door_A15
+    100002: stodola_door_A16
+    100004: window01
+    100006: window02
+    100008: window03
+    100010: window04
+    100012: //RootNode
+    100014: wood_house_C
+    400000: stodola_door_A15
+    400002: stodola_door_A16
+    400004: window01
+    400006: window02
+    400008: window03
+    400010: window04
+    400012: //RootNode
+    400014: wood_house_C
+    2300000: stodola_door_A15
+    2300002: stodola_door_A16
+    2300004: window01
+    2300006: window02
+    2300008: window03
+    2300010: window04
+    2300012: wood_house_C
+    3300000: stodola_door_A15
+    3300002: stodola_door_A16
+    3300004: window01
+    3300006: window02
+    3300008: window03
+    3300010: window04
+    3300012: wood_house_C
+    4300000: wood_house_C
+    4300002: window04
+    4300004: window03
+    4300006: window02
+    4300008: window01
+    4300010: stodola_door_A16
+    4300012: stodola_door_A15
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors_010
+    second: {fileID: 2100000, guid: ba7f451b121c48f479c1eea66c220374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton_001
+    second: {fileID: 2100000, guid: 1df796e2bed850d4a8849ae27e9c1be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drevo01
+    second: {fileID: 2100000, guid: d36913dd002f9b34fb3ef5382cab5867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_blue_256.tga
+    second: {fileID: 2100000, guid: e615e9e2896205c40a2e28d4587fef35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kamen
+    second: {fileID: 2100000, guid: 1710d153b3fa0aa429fad96b15c2d7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podezdivky
+    second: {fileID: 2100000, guid: 21e47feab11671f41b06ec7469d653f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strecha_03
+    second: {fileID: 2100000, guid: 05f8cee03085ef447bb62ccdf993b5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_001
+    second: {fileID: 2100000, guid: ed25965c29f824643ad8a0e31f6e359d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_002
+    second: {fileID: 2100000, guid: 2b0d67190f52bba49b7ac13efd36d628, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

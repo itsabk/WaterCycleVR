@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 26f966e0ecb5ea74eb0147ce8eef08b7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: stodola_door_A
+    100002: stodola_door_A01
+    100004: stodola_door_A02
+    100006: stodola_door_A03
+    100008: stodola_door_A04
+    100010: stodola_door_A05
+    100012: stodola_door_A06
+    100014: stodola_door_A07
+    100016: stodola_door_A08
+    100018: stodola_door_A09
+    100020: stodola_door_A10
+    100022: stodola_door_A11
+    100024: vrata_25x40_A
+    100026: vrata_25x40_A01
+    100028: vrata_25x40_A02
+    100030: vrata_25x40_A03
+    100032: window01
+    100034: window02
+    100036: window03
+    100038: window04
+    100040: window05
+    100042: window06
+    100044: window07
+    100046: window08
+    100048: window09
+    100050: window10
+    100052: window11
+    100054: window12
+    100056: window13
+    100058: window14
+    100060: window15
+    100062: window16
+    100064: window17
+    100066: window18
+    100068: wood_house_B
+    100070: //RootNode
+    400000: stodola_door_A
+    400002: stodola_door_A01
+    400004: stodola_door_A02
+    400006: stodola_door_A03
+    400008: stodola_door_A04
+    400010: stodola_door_A05
+    400012: stodola_door_A06
+    400014: stodola_door_A07
+    400016: stodola_door_A08
+    400018: stodola_door_A09
+    400020: stodola_door_A10
+    400022: stodola_door_A11
+    400024: vrata_25x40_A
+    400026: vrata_25x40_A01
+    400028: vrata_25x40_A02
+    400030: vrata_25x40_A03
+    400032: window01
+    400034: window02
+    400036: window03
+    400038: window04
+    400040: window05
+    400042: window06
+    400044: window07
+    400046: window08
+    400048: window09
+    400050: window10
+    400052: window11
+    400054: window12
+    400056: window13
+    400058: window14
+    400060: window15
+    400062: window16
+    400064: window17
+    400066: window18
+    400068: //RootNode
+    400070: wood_house_B
+    2300000: stodola_door_A
+    2300002: stodola_door_A01
+    2300004: stodola_door_A02
+    2300006: stodola_door_A03
+    2300008: stodola_door_A04
+    2300010: stodola_door_A05
+    2300012: stodola_door_A06
+    2300014: stodola_door_A07
+    2300016: stodola_door_A08
+    2300018: stodola_door_A09
+    2300020: stodola_door_A10
+    2300022: stodola_door_A11
+    2300024: vrata_25x40_A
+    2300026: vrata_25x40_A01
+    2300028: vrata_25x40_A02
+    2300030: vrata_25x40_A03
+    2300032: window01
+    2300034: window02
+    2300036: window03
+    2300038: window04
+    2300040: window05
+    2300042: window06
+    2300044: window07
+    2300046: window08
+    2300048: window09
+    2300050: window10
+    2300052: window11
+    2300054: window12
+    2300056: window13
+    2300058: window14
+    2300060: window15
+    2300062: window16
+    2300064: window17
+    2300066: window18
+    2300068: wood_house_B
+    3300000: stodola_door_A
+    3300002: stodola_door_A01
+    3300004: stodola_door_A02
+    3300006: stodola_door_A03
+    3300008: stodola_door_A04
+    3300010: stodola_door_A05
+    3300012: stodola_door_A06
+    3300014: stodola_door_A07
+    3300016: stodola_door_A08
+    3300018: stodola_door_A09
+    3300020: stodola_door_A10
+    3300022: stodola_door_A11
+    3300024: vrata_25x40_A
+    3300026: vrata_25x40_A01
+    3300028: vrata_25x40_A02
+    3300030: vrata_25x40_A03
+    3300032: window01
+    3300034: window02
+    3300036: window03
+    3300038: window04
+    3300040: window05
+    3300042: window06
+    3300044: window07
+    3300046: window08
+    3300048: window09
+    3300050: window10
+    3300052: window11
+    3300054: window12
+    3300056: window13
+    3300058: window14
+    3300060: window15
+    3300062: window16
+    3300064: window17
+    3300066: window18
+    3300068: wood_house_B
+    4300000: wood_house_B
+    4300002: stodola_door_A
+    4300004: vrata_25x40_A
+    4300006: stodola_door_A01
+    4300008: vrata_25x40_A01
+    4300010: vrata_25x40_A02
+    4300012: vrata_25x40_A03
+    4300014: stodola_door_A02
+    4300016: stodola_door_A03
+    4300018: stodola_door_A04
+    4300020: stodola_door_A05
+    4300022: stodola_door_A06
+    4300024: stodola_door_A07
+    4300026: stodola_door_A08
+    4300028: stodola_door_A09
+    4300030: stodola_door_A10
+    4300032: stodola_door_A11
+    4300034: window02
+    4300036: window01
+    4300038: window05
+    4300040: window04
+    4300042: window03
+    4300044: window06
+    4300046: window16
+    4300048: window17
+    4300050: window18
+    4300052: window15
+    4300054: window14
+    4300056: window13
+    4300058: window12
+    4300060: window11
+    4300062: window10
+    4300064: window09
+    4300066: window08
+    4300068: window07
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors_010
+    second: {fileID: 2100000, guid: ba7f451b121c48f479c1eea66c220374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors_013
+    second: {fileID: 2100000, guid: 15a8cd0ed85cbef4a93d73ed70a551ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OCEL_01
+    second: {fileID: 2100000, guid: b2524c097355de249af6b23f4c28bb73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton_001
+    second: {fileID: 2100000, guid: 1df796e2bed850d4a8849ae27e9c1be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton_004
+    second: {fileID: 2100000, guid: 1f7e79384ec7b1546baa68bdb791a310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drevo01
+    second: {fileID: 2100000, guid: d36913dd002f9b34fb3ef5382cab5867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drevo02
+    second: {fileID: 2100000, guid: 875c2190490584e4eb80e283425a1614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_blue_256.tga
+    second: {fileID: 2100000, guid: e615e9e2896205c40a2e28d4587fef35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kamen
+    second: {fileID: 2100000, guid: 1710d153b3fa0aa429fad96b15c2d7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podezdivky
+    second: {fileID: 2100000, guid: 21e47feab11671f41b06ec7469d653f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strecha_03
+    second: {fileID: 2100000, guid: 05f8cee03085ef447bb62ccdf993b5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_001
+    second: {fileID: 2100000, guid: ed25965c29f824643ad8a0e31f6e359d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_002
+    second: {fileID: 2100000, guid: 2b0d67190f52bba49b7ac13efd36d628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_013
+    second: {fileID: 2100000, guid: 9cd8d619d6deae145b5c0ea5fcf19fe2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
