@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: WeatherMakerSkySphereMaterial
   m_Shader: {fileID: 4800000, guid: a27a8894c3461a14e849975a7fc356b9, type: 3}
   m_ShaderKeywords: ENABLE_NIGHT_TWINKLE ENABLE_PROCEDURAL_SKY ENABLE_SUN ENABLE_SUN_HIGH_QUALITY

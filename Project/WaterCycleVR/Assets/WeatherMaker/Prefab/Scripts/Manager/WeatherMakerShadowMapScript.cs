@@ -147,15 +147,19 @@ namespace DigitalRuby.WeatherMaker
         {
             if (_light != null && _commandBuffer != null)
             {
-                try
+                if (_commandBuffer.name != null)
                 {
-                    _light.RemoveCommandBuffer(LightEvent.AfterShadowMap, _commandBuffer);
+
+                    try
+                    {
+                        _light.RemoveCommandBuffer(LightEvent.AfterShadowMap, _commandBuffer);
+                    }
+                    catch
+                    {
+                        // eat exception
+                    }
+                    _commandBuffer.Release();
                 }
-                catch
-                {
-                    // eat exception
-                }
-                _commandBuffer.Release();
             }
             //if (ShadowMapCopy != null)
             //{

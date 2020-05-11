@@ -26,7 +26,7 @@ Shader "GoogleVR/Unlit/Transparent Overlay" {
 
     LOD 100
 
-    Blend SrcAlpha OneMinusSrcAlpha
+    Blend SrcAlpha OneMinusSrcAlpha, OneMinusDstAlpha One
     AlphaTest Off
     Cull Back
     Lighting Off
@@ -41,8 +41,6 @@ Shader "GoogleVR/Unlit/Transparent Overlay" {
       #pragma multi_compile_fog
 
       #include "UnityCG.cginc"
-
-      #include "GvrUnityCompatibility.cginc"
 
       struct appdata_t {
         float4 vertex : POSITION;
@@ -60,7 +58,7 @@ Shader "GoogleVR/Unlit/Transparent Overlay" {
 
       v2f vert (appdata_t v) {
         v2f o;
-        o.vertex = GvrUnityObjectToClipPos(v.vertex);
+        o.vertex = UnityObjectToClipPos(v.vertex);
         o.texcoord = TRANSFORM_TEX(v.texcoord, _MainTex);
         UNITY_TRANSFER_FOG(o,o.vertex);
         return o;
