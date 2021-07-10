@@ -109,7 +109,7 @@ namespace DigitalRuby.WeatherMaker
 
         private RenderTextureDescriptor GetRenderTextureDescriptor(float scale)
         {
-            RenderTextureDescriptor desc = (UnityEngine.XR.XRDevice.isPresent) ? UnityEngine.XR.XRSettings.eyeTextureDesc : new RenderTextureDescriptor(Screen.width, Screen.height, RenderTextureFormat.ARGB32, 0);
+            RenderTextureDescriptor desc = (XRstatusCheck.isPresent()) ? UnityEngine.XR.XRSettings.eyeTextureDesc : new RenderTextureDescriptor(Screen.width, Screen.height, RenderTextureFormat.ARGB32, 0);
             if (scale > 0.0f)
             {
                 desc.width = (int)(desc.width * scale);
